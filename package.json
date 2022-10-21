@@ -1,0 +1,16 @@
+{
+"name": "amb711",
+"theme": "amb711",
+"version": "3.3.8",
+"description": "amb711 ทางเข้าเว็บพนันเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
+"keywords": [
+"amb711",
+"amb711 เครดิตฟรี",
+"amb711 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/amb711",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
